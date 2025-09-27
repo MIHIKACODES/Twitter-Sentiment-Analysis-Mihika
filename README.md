@@ -66,24 +66,7 @@ Preprocessing (cleaning + stemming) significantly improves accuracy.
 
 Future work: try advanced models like Naive Bayes, SVM, LSTMs, or BERT.
 
-📌 How to Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/twitter-sentiment-analysis.git
-cd twitter-sentiment-analysis
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run the Jupyter notebook:
-
-jupyter notebook Twitter_Sentiment_Analysis_Project.ipynb
-
-Dataset link:
+📌 Dataset link
 https://www.kaggle.com/datasets/kazanova/sentiment140
 
 👩‍💻 Author
